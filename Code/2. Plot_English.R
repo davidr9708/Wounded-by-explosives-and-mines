@@ -41,7 +41,7 @@ Injury %>%
            y = c(300,315, 280),
            parse = TRUE)  +
   ## Scales
-  scale_x_date(limits = as.Date(c("2014-09-01","2018-05-01")),
+  scale_x_date(limits = as.Date(c("2014-09-01","2018-02-01")),
                position = 'top', date_breaks = "1 year", date_labels = "%Y",
                expand = c(0,0)) +
   scale_y_reverse(expand = c(0,-4), limits =c(350,-7))  +
