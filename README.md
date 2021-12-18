@@ -1,4 +1,4 @@
-![](Plot_English.png)
+![](English_Plot.png)
 ## Description
 The aim of this project is to design a plot about the patterns of daily wounds by explosives and mines in Colombia.
 
